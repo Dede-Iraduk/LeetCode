@@ -1,4 +1,3 @@
-
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
         n = len(nums)  # Length of the input array
@@ -21,10 +20,4 @@ class Solution:
 
         return maxLen  # Return the maximum length found
 
-    
-
-
-
-
-    
         
